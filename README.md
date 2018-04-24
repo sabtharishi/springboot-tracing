@@ -5,7 +5,7 @@
 * Spring cloud - Edgware.SR3
 
 # Prerequisite
-* Run springboot-web - https://github.com/sabtharishi/springboot-web
+* Run springboot-web - https://github.com/sabtharishi/springboot-web (and this app must be run on 8090 as this port is harded in code)
 
 # Endpoints
 Simple endpoint exposed by this app will try to consume other service's endpoint which does not implement tracing
